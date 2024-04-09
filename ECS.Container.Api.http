@@ -1,0 +1,6 @@
+@ECS.Container.Api_HostAddress = http://localhost:5050
+
+GET {{ECS.Container.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
